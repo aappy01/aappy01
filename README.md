@@ -1,5 +1,5 @@
-#- 👋 Hi, I’m Babajide Tella
-##- 👀 I’m interested in web and mobile application development
+- 👋 Hi, I’m Babajide Tella
+- 👀 I’m interested in web and mobile application development
 - 🌱 I’m currently learning React and TailwindCss
 - 💞️ I’m looking to collaborate on Interesting and Innovative Projects
 - 📫 How to reach me @j.telher@gmail.com
